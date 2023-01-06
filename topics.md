@@ -1,12 +1,14 @@
 ### 方向
-理应以图的形式说明大致关系，现在只是报菜名
+理应以图的形式说明大致关系，现在只是报菜名。
+想到再补
 * Group Theory
 * Linear Algebra
 * Ring Theory (Commutative / General)
 * Topology
 * Graph Theory
 * Number Theory
-* Field/Galois Theory
+* Combinatorics
+* Galois Theory
 * Measure Theory
 * Probability Theory
 * Information Theory
