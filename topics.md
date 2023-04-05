@@ -57,8 +57,9 @@
   * Quantum Cryptography
 * Statistics
 * Game Theory
-
-~~每个名词前面加上Computational又是一个领域~~
+* Computation
+  * Formal Language Theory
+  * ~~每个名词前面加上Computational又是一个领域~~
 
 ### 技术
 想到啥就写
